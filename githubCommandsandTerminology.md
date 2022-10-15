@@ -74,9 +74,9 @@ Set your username and Password:
 </center>
  12. Command: 
       git push -u origin master
-<center>
-  <img src="images\Du_Git_Push.JPG">
-</center>
+        <center>
+        <img src="images\Du_Git_Push.JPG">
+        </center>
 
       
 
