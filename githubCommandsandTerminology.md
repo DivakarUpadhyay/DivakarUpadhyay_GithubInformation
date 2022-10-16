@@ -79,6 +79,17 @@ Set your username and Password:
         <img src="images\DU_Git_Push.JPG">
 </center>
 
+13. Command:
+      git ls-files
+<center>
+        <img src="images\DU_Git_GitFileInLocalRepo_11.JPG">
+</center>
+
+14. Command:
+      git remote -v
+<center>
+        <img src="images\DU_Git_GitRemote_12.JPG">
+</center>
       
 
 
