@@ -90,7 +90,24 @@ Set your username and Password:
 <center>
         <img src="images\DU_Git_GitRemote_12.JPG">
 </center>
-      
+
+Commands to fetch,pull and push to a subdirectory of Repository:
+-----------
+1. Create a directory
+2. git init
+3. git remote add -f origin https://github.com/DivakarUpadhyay/DivakarLearningMaterial.git
+4. git config core.sparseCheckout true
+5. git sparse-checkout
+6. git sparse-checkout set DivakarUpadhyay_JobLearningMaterials 
+
+Format:(git sparse-checkout set directoryname which wants to fetch or checkout)
+
+7. git pull origin master
+8. git status
+9. git add DivakarUpadhyay_JobLearningMaterials/DivakarUpadhyay_Technology/DivakarUpadhyay_Jquery/DIVAKAR_JQUERY_V1.md
+10. git status
+11. git commit -m "Initial Commits"
+12. git push origin master
 
 
 
