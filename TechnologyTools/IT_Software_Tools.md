@@ -1,3 +1,5 @@
+Project Management Tools:
+-----------
 | **Sr.No** | **Tools Name**     | **Uses and Info** |
 |-----------|--------------------|-------------------|
 |   **1**   |       Trello       |                   |
@@ -100,3 +102,110 @@
 |   **98**  |      Workzone      |                   |
 |   **99**  |      Nutcache      |                   |
 |  **100**  |     ProWorkflow    |                   |
+|  **101**  |   Microsoft Project|                   |
+|  **102**  |Microsoft Project Web|                   |
+
+Cloud Service Provider:
+-----------
+| **Sr.No** | **Cloud Service Provider Names** | **Info** |
+|-----------|----------------------------------|----------|
+|   **1**   |     Amazon Web Services (AWS)    |          |
+|   **2**   |          Microsoft Azure         |          |
+|   **3**   |    Google Cloud Platform (GCP)   |          |
+|   **4**   |             IBM Cloud            |          |
+|   **5**   |           Oracle Cloud           |          |
+|   **6**   |           Alibaba Cloud          |          |
+|   **7**   |            Salesforce            |          |
+|   **8**   |           VMware Cloud           |          |
+|   **9**   |            Cisco Cloud           |          |
+|   **10**  |             Rackspace            |          |
+|   **11**  |           DigitalOcean           |          |
+|   **12**  |        SAP Cloud Platform        |          |
+|   **13**  |         Red Hat OpenShift        |          |
+|   **14**  |        HP Enterprise Cloud       |          |
+|   **15**  |          Dell EMC Cloud          |          |
+|   **16**  |         CenturyLink Cloud        |          |
+|   **17**  |           Fujitsu Cloud          |          |
+|   **18**  |           Joyent Cloud           |          |
+|   **19**  |      Adobe Experience Cloud      |          |
+|   **20**  |                Box               |          |
+|   **21**  |              Dropbox             |          |
+|   **22**  |            Zoho Cloud            |          |
+|   **23**  |              Workday             |          |
+|   **24**  |               Slack              |          |
+|   **25**  |          Atlassian Cloud         |          |
+|   **26**  |              Trello              |          |
+|   **27**  |               Asana              |          |
+|   **28**  |            Smartsheet            |          |
+|   **29**  |             Evernote             |          |
+|   **30**  |         Dropbox Business         |          |
+|   **31**  |           Box Business           |          |
+|   **32**  |              Egnyte              |          |
+|   **33**  |           Citrix Cloud           |          |
+|   **34**  |           AWS GovCloud           |          |
+|   **35**  |    Microsoft Government Cloud    |          |
+|   **36**  |      Google Cloud Government     |          |
+|   **37**  |    Salesforce Government Cloud   |          |
+|   **38**  |       IBM Government Cloud       |          |
+|   **39**  |      Oracle Government Cloud     |          |
+|   **40**  |        DigitalOcean Spaces       |          |
+|   **41**  |     Alibaba Cloud Government     |          |
+|   **42**  |             Amazon S3            |          |
+|   **43**  |        Microsoft OneDrive        |          |
+|   **44**  |           Google Drive           |          |
+|   **45**  |     IBM Cloud Object Storage     |          |
+|   **46**  |    Oracle Cloud Object Storage   |          |
+|   **47**  |             Backblaze            |          |
+|   **48**  |              Wasabi              |          |
+|   **49**  |              pCloud              |          |
+|   **50**  |             Sync.com             |          |
+|   **51**  |             SpiderOak            |          |
+|   **52**  |               Mega               |          |
+|   **53**  |              IDrive              |          |
+|   **54**  |             Nextcloud            |          |
+|   **55**  |             OwnCloud             |          |
+|   **56**  |               Ghost              |          |
+|   **57**  |              Linode              |          |
+|   **58**  |               Vultr              |          |
+|   **59**  |             Scaleway             |          |
+|   **60**  |            CloudSigma            |          |
+|   **61**  |           Atlantic.Net           |          |
+|   **62**  |            A2 Hosting            |          |
+|   **63**  |             Bluehost             |          |
+|   **64**  |             DreamHost            |          |
+|   **65**  |             HostGator            |          |
+|   **66**  |            SiteGround            |          |
+|   **67**  |            DigitalBerg           |          |
+|   **68**  |            Liquid Web            |          |
+|   **69**  |              Nexcess             |          |
+|   **70**  |             Pantheon             |          |
+|   **71**  |             WP Engine            |          |
+|   **72**  |       Firebase (by Google)       |          |
+|   **73**  |    Microsoft Azure App Service   |          |
+|   **74**  |         IBM Cloud Foundry        |          |
+|   **75**  |       Oracle Cloud Foundry       |          |
+|   **76**  |      Google Cloud Functions      |          |
+|   **77**  |            AWS Lambda            |          |
+|   **78**  |  Alibaba Cloud Function Compute  |          |
+|   **79**  |       VMware Cloud Foundry       |          |
+|   **80**  |        Cisco Cloud Foundry       |          |
+|   **81**  |   Red Hat OpenShift Serverless   |          |
+|   **82**  |            Cloudflare            |          |
+|   **83**  |              Akamai              |          |
+|   **84**  |              Fastly              |          |
+|   **85**  |        CloudFront (by AWS)       |          |
+|   **86**  |        Microsoft Azure CDN       |          |
+|   **87**  |         Google Cloud CDN         |          |
+|   **88**  |         Oracle Cloud CDN         |          |
+|   **89**  |         Alibaba Cloud CDN        |          |
+|   **90**  |           IBM Cloud CDN          |          |
+|   **91**  |      DigitalOcean Spaces CDN     |          |
+|   **92**  |            Cloudinary            |          |
+|   **93**  |             ImageKit             |          |
+|   **94**  |             Filestack            |          |
+|   **95**  |               Imgix              |          |
+|   **96**  |           CloudConvert           |          |
+|   **97**  |              Twilio              |          |
+|   **98**  |      Vonage (formerly Nexmo)     |          |
+|   **99**  |               Plivo              |          |
+|  **100**  |             Bandwidth            |          |
