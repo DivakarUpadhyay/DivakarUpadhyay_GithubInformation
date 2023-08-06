@@ -91,7 +91,7 @@ Set your username and Password:
         <img src="images\DU_Git_GitRemote_12.JPG">
 </center>
 
-Commands to fetch,pull and push to a subdirectory of Repository:
+Commands to fetch,pull and push to a subdirectory of Repository: (git version 2.28.2>)
 -----------
 1. Create a directory
 2. git init
